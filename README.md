@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyothika</h1>
 
 <h3 align="center">
-AI × Full Stack Developer exploring Healthcare Tech, Cybersecurity, and Social Impact
+AI × Full Stack Developer exploring Healthcare Tech and Cybersecurity
 </h3>
 
 <p align="center">
