@@ -1,8 +1,12 @@
-<h1 align="center">Hi, I'm Jyothika</h1>
+<h1 align="center">Hi 👋, I'm Jyothika</h1>
 
 <h3 align="center">
-AI × Full Stack Developer exploring Healthcare Tech and Cybersecurity
+AI × Full Stack Developer exploring Healthcare Tech, Cybersecurity, and Social Impact
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%C3%97+Full+Stack+Developer;Building+Tech+for+Social+Impact;Healthcare+Tech+%7C+Cybersecurity;Hackathon+Finalist+%7C+GSSoC+Contributor" alt="Typing SVG" />
+</p>
 
 <p align="center">
 Building intelligent systems focused on accessibility, security, and real-world impact ✨
@@ -30,18 +34,27 @@ Building intelligent systems focused on accessibility, security, and real-world 
 
 ---
 
-##  Featured Projects
+## 🎮 Player Stats
 
-###  RakshakX
+🧠 Intelligence Build: AI & Security  
+⚔️ Current Quest: Building impactful tech  
+🛡️ Special Ability: Turning ideas into real-world projects  
+☕ Mana Source: Tea & early-morning debugging  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 RakshakX
 AI-powered privacy-first scam detection system with real-time threat analysis and intelligent risk detection.
 
-###  Ullaas
+### 🌸 Ullaas
 Voice-first multilingual marketplace empowering women entrepreneurs through accessible technology.
 
-###  Shadow Walk
+### 🛡️ Shadow Walk
 Women safety platform focused on smart safety features and user-centered design.
 
-###  Questify
+### ⚔️ Questify
 Gamified productivity web app that turns task management into an RPG-style experience.
 
 ---
@@ -120,16 +133,6 @@ Gamified productivity web app that turns task management into an RPG-style exper
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothikacodes&show_icons=true&locale=en&layout=compact" alt="jyothikacodes" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyothikacodes&show_icons=true&locale=en" alt="jyothikacodes" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyothikacodes&" alt="jyothikacodes" />
-</p>
+![snake gif](https://github.com/jyothikacodes/jyothikacodes/blob/output/github-contribution-grid-snake.svg)
