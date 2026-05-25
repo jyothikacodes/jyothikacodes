@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jyothika</h1>
+<h1 align="center">Hi, I'm Jyothika</h1>
 
 <h3 align="center">
 AI × Full Stack Developer exploring Healthcare Tech and Cybersecurity
@@ -16,12 +16,12 @@ Building intelligent systems focused on accessibility, security, and real-world 
 
 ## 🌱 About Me
 
-- 🎓 CSE Student at IIIT Kottayam
-- 🧠 Interested in AI, Cybersecurity & Healthcare Tech
-- 💡 Passionate about building technology with real-world impact
-- 🚀 Hackathon Finalist | GSSoC 2026 Contributor
-- 🌸 Founder of Ullaas — building accessible technology to support women entrepreneurs and financial independence
-- 🔐 Exploring AI-powered security and intelligent systems
+-  CSE Student at IIIT Kottayam
+-  Interested in AI, Cybersecurity & Healthcare Tech
+-  Passionate about building technology with real-world impact
+-  Hackathon Finalist | GSSoC 2026 Contributor
+-  Founder of Ullaas — building accessible technology to support women entrepreneurs and financial independence
+-  Exploring AI-powered security and intelligent systems
 - ✨ Interested in accessibility-focused and inclusive tech
 
 - 📫 Reach me at: **jyothikapratheep@gmail.com**
@@ -30,18 +30,18 @@ Building intelligent systems focused on accessibility, security, and real-world 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔐 RakshakX
+###  RakshakX
 AI-powered privacy-first scam detection system with real-time threat analysis and intelligent risk detection.
 
-### 🌸 Ullaas
+###  Ullaas
 Voice-first multilingual marketplace empowering women entrepreneurs through accessible technology.
 
-### 🛡️ Shadow Walk
+###  Shadow Walk
 Women safety platform focused on smart safety features and user-centered design.
 
-### ⚔️ Questify
+###  Questify
 Gamified productivity web app that turns task management into an RPG-style experience.
 
 ---
