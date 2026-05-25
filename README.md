@@ -133,6 +133,8 @@ Gamified productivity web app that turns task management into an RPG-style exper
 
 ---
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/jyothikacodes/jyothikacodes/blob/output/github-contribution-grid-snake.svg)
+
+## 👾 Contribution Graph
+
+![pacman graph](https://raw.githubusercontent.com/jyothikacodes/jyothikacodes/output/pacman-contribution-graph.svg)
