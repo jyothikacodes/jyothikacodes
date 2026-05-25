@@ -45,16 +45,16 @@ Building intelligent systems focused on accessibility, security, and real-world 
 
 ## 🚀 Featured Projects
 
-### 🔐 RakshakX
+###  RakshakX
 AI-powered privacy-first scam detection system with real-time threat analysis and intelligent risk detection.
 
-### 🌸 Ullaas
+###  Ullaas
 Voice-first multilingual marketplace empowering women entrepreneurs through accessible technology.
 
-### 🛡️ Shadow Walk
+###  Shadow Walk
 Women safety platform focused on smart safety features and user-centered design.
 
-### ⚔️ Questify
+###  Questify
 Gamified productivity web app that turns task management into an RPG-style experience.
 
 ---
