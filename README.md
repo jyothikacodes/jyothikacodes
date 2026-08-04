@@ -34,14 +34,6 @@ Building intelligent systems focused on accessibility, security, and real-world 
 
 ---
 
-## 🎮 Player Stats
-
-🧠 Intelligence Build: AI & Security  
-⚔️ Current Quest: Building impactful tech  
-🛡️ Special Ability: Turning ideas into real-world projects  
-☕ Mana Source: Tea & early-morning debugging  
-
----
 
 ## 🚀 Featured Projects
 
@@ -53,9 +45,6 @@ Voice-first multilingual marketplace empowering women entrepreneurs through acce
 
 ###  Shadow Walk
 Women safety platform focused on smart safety features and user-centered design.
-
-###  Questify
-Gamified productivity web app that turns task management into an RPG-style experience.
 
 ---
 
